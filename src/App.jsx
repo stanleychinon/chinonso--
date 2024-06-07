@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <nav className='flex items-center justify-between px-[70px] py-[30px]'>
-        <img src="/logo (1).svg" alt="" />
+        <img src="./image/logo (1).svg" alt="" />
         <ul className='flex gap-20'>
           <li>
             <a href='#'>Home</a>
